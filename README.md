@@ -29,7 +29,7 @@ This is a laravel project that uses multidomain routing functionality and custom
 
 ##### a. Download zip from the link below:
 
-[Download the latest release](https://git.ithands.com/gabriel.gaurav/multidomain-app.git)
+[Download the latest release](https://github.com/gauravbhandari2503/multidomain-app.git)
 
 ##### b. Extract the contents of zip and execute the project in your browser:
 
